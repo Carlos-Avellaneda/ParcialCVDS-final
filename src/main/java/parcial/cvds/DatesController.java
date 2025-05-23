@@ -15,7 +15,7 @@ public class DatesController {
 
 
     @GetMapping
-    public List<Date> listarDates() {
+    public List<Date> listDates() {
         return dateRepository.findAll();
     }
 
