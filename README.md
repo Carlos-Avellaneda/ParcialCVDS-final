@@ -19,7 +19,7 @@ DateController el cual es quien realiza las peticiones y se conecta con la base 
 ### Ejecucion de Back
 Este consiste en una Springboot app que para correr, y una vez funcionando se le manda a azure para que 
 ya quede todo montado en la red.
-![](https://github.com/Carlos-Avellaneda/Parcial_CVDS/blob/main/2.png)
+![](https://github.com/Carlos-Avellaneda/Parcial_CVDS/2.png)
 
 
 Una vez estuviese desplegado en azure se usaria la siguiente
